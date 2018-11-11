@@ -338,7 +338,7 @@
                 $.ajax({
     
                     type: "POST",
-                    url: "https://formspree.io/lucasmatdlx@hotmail.com",
+                    url: "https://formspree.io/suporte@freedalert.co",
                     data: $(form).serialize(),
                     beforeSend: function() { 
     
